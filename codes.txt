@@ -1,0 +1,6 @@
+corregir error cuado se compila para chrome
+-> flutter run -d chrome --release
+
+Other
+-> flutter clean
+-> flutter pub cache repair
